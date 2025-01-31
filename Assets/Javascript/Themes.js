@@ -15,8 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const themes = {
         '0': [
-            ['--container-color', 'rgba(33, 33, 33, 0.6)'],
-            ['--container-color-fallback', 'rgba(33, 33, 33, 1)'],
+            ['--container-color', 'rgba(0, 0, 0, 0.23)'],
             ['--music-player-color', 'rgba(66, 66, 66, 0.7)'],
             ['--tag-color', 'rgba(50, 50, 50, 0.7)'],
             ['--progress-unfilled', '#212121'],
@@ -29,9 +28,8 @@ document.addEventListener('DOMContentLoaded', () => {
             ['image', './Assets/Misc/Background Dark.jpg']
         ],
         '1': [
-            ['--container-color', 'rgba(160, 160, 160, 0.8)'],
-            ['--container-color-fallback', 'rgba(140, 140, 140, 1)'],
-            ['--music-player-color', 'rgba(220, 220, 220, 0.7)'],
+            ['--container-color', 'rgba(0, 0, 0, 0.23)'],
+            ['--music-player-color', 'rgba(220, 220, 220, 0.55)'],
             ['--tag-color', 'rgba(200, 200, 200, 0.7)'],
             ['--progress-unfilled', '#666666'],
             ['--progress-filled', '#D27D2D'],
