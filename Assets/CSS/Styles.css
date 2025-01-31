@@ -1,7 +1,5 @@
 :root {
-    --background-color-fallback: #212121;
-    --container-color: rgba(33, 33, 33, 0.6);
-    --container-color-fallback: rgba(33, 33, 33, 1);
+    --container-color: rgba(0, 0, 0, 0.23);
     --container-shadow: rgba(0, 0, 0, 0.1);
     --music-player-color: rgba(66, 66, 66, 0.7);
     --tag-color: rgba(50, 50, 50, 0.7);
@@ -71,7 +69,6 @@ body {
     border-radius: 0.625rem;
     width: var(--desktop-container-width);
     backdrop-filter: blur(0.3125rem);
-    background-color: var(--container-color-fallback);
     border: 0.09375rem solid var(--theme-color);
 }
 
