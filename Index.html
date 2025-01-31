@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./Assets/CSS/Styles.css"/>
+    <link rel="icon" href="./Assets/Misc/Logo.ico" type="image/x-icon"/>
+    <meta name="author" content="aftxrlifx"/>
+    <meta name="description" content="I'll always be better than you."/>
+    <meta name="theme-color" content="#000"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://jaxx1337.tech/"/>
+    <meta property="og:title" content="aftxrlifx"/>
+    <meta property="og:description" content="Links to my socials"/>
+    <meta property="og:image" content="./Assets/Misc/Dark Background.jpg">
+    <title>aftxrlifx</title>
+    <div id="landing-page">
+        <p>click to enter</p>
+    </div>
+    <script src="./Assets/Javascript/Landing.js"></script>
+</head>
+
+<button id="theme-toggle">
+    <img id="Theme-Button" src="" alt="Theme Button">
+</button>
+
+<body id="image-url" style="background-image: url('./Assets/Misc/Dark Mode.jpg')">
+<div class="container">
+    <div class="icons"></div>
+    <script src="./Assets/Javascript/Icons.js"></script>
+
+    <div class="music-player-border">
+        <div class="music-player">
+            <div class="player-container">
+                <div class="album-art">
+                    <img id="album-image" class="no-select" src="" alt="">
+                </div>
+                <div class="player-info">
+                    <p id="song-title" class="song-title no-select"></p>
+                    <p id="song-artist" class="song-artist no-select">Jaxx</p>
+                </div>
+            </div>
+            <div class="player-controls">
+                <button id="previous-song" class="control-btn">
+                    <img class="Previous-Song-Button no-select" src="./Assets/Images/Music Player/Previous-Song-Button.png" alt="Previous Song Button"/>
+                </button>
+                <button id="play-pause-song" class="control-btn">
+                    <img class="Play-Pause-Button no-select" src="./Assets/Images/Music Player/Pause-Button.png" alt="Play/Pause Button">
+                </button>
+                <button id="next-song" class="control-btn">
+                    <img class="Next-Song-Button no-select" src="./Assets/Images/Music Player/Next-Song-Button.png" alt="Next Song Button"/>
+                </button>
+            </div>
+
+            <div class="progress-container">
+                <span id="current-time"></span>
+                <div class="progress-bar">
+                    <div class="progress-filled"></div>
+                    <div class="progress-thumb"></div>
+                </div>
+                <span id="total-time">0:00</span>
+            </div>
+            <script src="./Assets/Javascript/Progress Bar.js"></script>
+            <audio id="audio-player" controls autoplay style="display: none;">
+                <source id="audio-source" src="" type="audio/mp3">
+            </audio>
+        </div>
+
+        <div class="volume-control">
+            <button id="volume-btn" class="control-btn">
+                <img id="volume-icon" class="no-select" src="./Assets/Images/Music Player/Volume On.png" alt="Volume Control"/>
+            </button>
+        </div>
+
+    </div>
+</div>
+
+<script src="./Assets/Javascript/Music Player.js"></script>
+<script src="./Assets/Javascript/Themes.js"></script>
+</body>
+</html>

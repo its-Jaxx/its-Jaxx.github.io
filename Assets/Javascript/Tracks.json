@@ -1,0 +1,144 @@
+[
+    {
+        "info": [
+            { "title": "Autumn Wind", "link": "https://open.spotify.com/track/0vwMdWKwS4mjeKiYvEq5Vc" }
+        ],
+        "artists": [
+            { "name": "DVRST", "link": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Autumn Wind.mp3",
+        "cover": "./Assets/Songs/Cover Art/Autumn Wind.jpg",
+        "tag": "E",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "Close to Me", "link": "https://open.spotify.com/track/52Q9b7ra6aGPgNuVpcoXFk" }
+        ],
+        "artists": [
+            { "name": "my!lane", "link": "https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Close to Me.mp3",
+        "cover": "./Assets/Songs/Cover Art/Close to Me.jpg",
+        "tag": "E",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "Drift Aura", "link": "https://open.spotify.com/track/1AUlZMOREUBaUlfHNeGAGS" }
+        ],
+        "artists": [
+            { "name": "my!lane", "link": "https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Drift Aura.mp3",
+        "cover": "./Assets/Songs/Cover Art/Drift Aura.jpg",
+        "tag": "",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "EDGE RUNNER", "link": "https://open.spotify.com/track/33F2M1oR6ktNo8gUACCkII" }
+        ],
+        "artists": [
+            { "name": "HERETIX PROD", "link": "https://open.spotify.com/artist/2qGQyeIbBumMDPBKfI2KUf" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/EDGE RUNNER.mp3",
+        "cover": "./Assets/Songs/Cover Art/EDGE RUNNER.jpg",
+        "tag": "",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "Future Steps", "link": "https://open.spotify.com/track/3ggVoG53a74NbA6fWfVIuG" }
+        ],
+        "artists": [
+            { "name": "my!lane", "link": "https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Future Steps.mp3",
+        "cover": "./Assets/Songs/Cover Art/Future Steps.jpg",
+        "tag": "E",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "Let It Out", "link": "https://open.spotify.com/track/7rerrh13E1nFECmB89SkdO" }
+        ],
+        "artists": [
+            { "name": "my!lane", "link": "https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Let It Out.mp3",
+        "cover": "./Assets/Songs/Cover Art/Let It Out.jpg",
+        "tag": "E",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "Motion", "link": "https://open.spotify.com/track/6tCZVAe3Bgb5qQcwoAfUKE" }
+        ],
+        "artists": [
+            { "name": "DVRST", "link": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Motion.mp3",
+        "cover": "./Assets/Songs/Cover Art/Motion.jpg",
+        "tag": "E",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "Night Drive", "link": "https://open.spotify.com/track/4jrXcjE0rKXu4svwQ7IYzD" }
+        ],
+        "artists": [
+            { "name": "Wilee", "link": "https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Night Drive.mp3",
+        "cover": "./Assets/Songs/Cover Art/Night Drive.jpg",
+        "tag": "",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "Stereo Love", "link": "https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix" }
+        ],
+        "artists": [
+            { "name": "my!lane", "link": "https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Stereo Love.mp3",
+        "cover": "./Assets/Songs/Cover Art/Stereo Love.jpg",
+        "tag": "E",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "This Feeling", "link": "https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI" }
+        ],
+        "artists": [
+            { "name": "my!lane", "link": "https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/This Feeling.mp3",
+        "cover": "./Assets/Songs/Cover Art/This Feeling.jpg",
+        "tag": "E",
+        "volume": "100"
+    },
+
+    {
+        "info": [
+            { "title": "Giving My All 2 U", "link": "https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi" }
+        ],
+        "artists": [
+            { "name": "WEB", "link": "https://open.spotify.com/artist/2P64joyhsQaekrBR6LZRQ3" }
+        ], 
+        "file": "./Assets/Songs/Audio Files/Giving My All 2 U.mp3",
+        "cover": "./Assets/Songs/Cover Art/Giving My All 2 U.jpg",
+        "tag": "",
+        "volume": "100"
+    }
+]
